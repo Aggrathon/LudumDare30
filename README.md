@@ -1,4 +1,4 @@
-# Phase Rider
+# Phase Rider - Ludum Dare 30
 
 A podracing game with phase shift. Instructions and Lore in the menu. Only one level (even though there is a disabled menu option).  
 
